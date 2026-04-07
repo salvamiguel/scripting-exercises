@@ -7,4 +7,4 @@ on:
 jobs:
   grade-scripting:
     name: Scripting Grading
-    uses: salvamiguel/grading-workflows/.github/workflows/scripting_grading.yaml@v1.0.0
+    uses: salvamiguel/grading-workflows/.github/workflows/scripting_grading.yaml@v1.0.1
